@@ -34,6 +34,7 @@ ROC-AUC: 0.83
 
 Balanced classes with SMOTE:
 Before: Non-Diabetic=400, Diabetic=214
+
 After: Non-Diabetic=400, Diabetic=400
 
 
@@ -65,10 +66,10 @@ After: Non-Diabetic=400, Diabetic=400
 ## 🖥️ Streamlit App UI
 
 ### 🔹 Non Diabetic
-![App Screenshot 1](<img width="907" height="1009" alt="d1" src="https://github.com/user-attachments/assets/08f53916-4da7-4ebe-9eb4-dec1ea209a94" />)
+<img width="907" height="1009" alt="d1" src="https://github.com/user-attachments/assets/08f53916-4da7-4ebe-9eb4-dec1ea209a94" />
 
 ### 🔹 Diabetic
-![App Screenshot 2](<img width="866" height="970" alt="d2" src="https://github.com/user-attachments/assets/5b71957b-3642-401c-9926-b25986c99e9d" />)
+<img width="866" height="970" alt="d2" src="https://github.com/user-attachments/assets/5b71957b-3642-401c-9926-b25986c99e9d" />
 
 ---
 
